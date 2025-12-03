@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArdaAKP1NAR
 - 👀 I’m interested in Coding and self-improvement
-- 🌱 I’m currently learning C# and React
+- 🌱 I’m currently learning C# and Blazor
 - 📫 How to reach me from email 
 - ⚡ Fun fact: Life is this I like this.
 
