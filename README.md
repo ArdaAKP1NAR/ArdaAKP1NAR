@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @ArdaAKP1NAR
-- 👀 I’m interested in Coding and self-improvement
-- 🌱 I’m currently learning C# and Blazor
-- 📫 How to reach me from email 
-- ⚡ Fun fact: Life is this I like this.
+👋 Hi, I’m Arda Akpınar
+🚀 About Me
 
-<!---
-ArdaAKP1NAR/ArdaAKP1NAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate Computer Engineering student who loves building clean, scalable, and functional applications.
+Currently focusing on C#, ASP.NET, and Blazor, while continuously improving my problem-solving and software architecture skills.
+
+👀 Interests
+
+Full-stack web development
+
+Clean code & software design
+
+Self-improvement & productivity
+
+Building real-world projects
+
+🌱 Currently Learning
+
+C# & .NET Ecosystem
+
+Blazor (Server & WebAssembly)
+
+Entity Framework Core
+
+SQL & Database Design
+
+📫 Contact
+
+Email: ardaakpinar394@gmail.com
+ (buraya ekleyebilirsin)
